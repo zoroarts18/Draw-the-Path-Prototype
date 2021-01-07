@@ -2,16 +2,16 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+/Draw the way/[Ll]ibrary/
+/Draw the way/[Tt]emp/
+/Draw the way/[Oo]bj/
+/Draw the way/[Bb]uild/
+/Draw the way/[Bb]uilds/
+/Draw the way/[Ll]ogs/
+/Draw the way/[Mm]emoryCaptures/
 
 # Never ignore Asset meta data
-!/[Aa]ssets/**/*.meta
+!/Draw the way/[Aa]ssets/**/*.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
